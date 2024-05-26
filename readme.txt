@@ -1,3 +1,5 @@
+website url:34.71.33.151:3000
+
 (1) Install all dependencies and packages
 
 npm install express mysql bcrypt body-parser express-session ejs nodemon express-validator
