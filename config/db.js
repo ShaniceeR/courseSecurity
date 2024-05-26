@@ -1,6 +1,6 @@
 const mysql = require('mysql');
 const connection = mysql.createConnection({
-  host: ' coursesecurity ', // Use 'YOUR_INSTANCE_CONNECTION_NAME' for Cloud SQL
+  host: '34.134.168.49', // Use 'YOUR_INSTANCE_CONNECTION_NAME' for Cloud SQL
   user: 'root',
   password: 'Coursesecurity',
   database: 'course'
